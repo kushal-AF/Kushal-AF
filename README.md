@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kushal-AF&icon=0&color=0)]([https://visitcount.itsvg.in](https://img.shields.io/badge/Profile_Views-66.2k-blue))
+![Profile Views](https://img.shields.io/badge/Profile_Views-66.2k-blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
